@@ -48,4 +48,8 @@ public class Presenca extends Funcionario {
         this.presente = presente;
         this.horasExtras = horasExtras;
     }
+
+    public Funcionario getFuncionario() {
+        return null;
+    }
 }
